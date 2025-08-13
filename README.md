@@ -55,6 +55,8 @@ Data was collected from all three branches of CLEARX Cosmetics and merged into a
 - **Seasonality**:
   - Peak sales: April and June
   - Dips: September to November
+<img width="1833" height="664" alt="Screenshot 2025-08-12 213832" src="https://github.com/user-attachments/assets/273b5192-1f88-4cc7-bfb9-50263345ecc4" />
+<img width="1817" height="550" alt="Screenshot 2025-08-12 213901" src="https://github.com/user-attachments/assets/ed7554f6-e624-4264-a48d-4ae1488ae795" />
 
 ## 🧭 Recommendations
 1. **Diversify Product Range**: Increase skincare variety to capture more market share.
