@@ -37,6 +37,7 @@ Data was collected from all three branches of CLEARX Cosmetics and merged into a
   - Dashboards
 
 [📊 Click here to download full interactive dashboard!](https://drive.google.com/file/d/1HDGMtpD2MG_AxDCsQAMSByv6W-UCdThH/view?usp=sharing)
+[Click here to access Excel for the web!](https://excel.cloud.microsoft/en-us/)
 
 
 ## 🔍 Data Analysis Objectives
