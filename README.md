@@ -14,7 +14,7 @@ This is an intense Exploratory Data Analysis of a cosmetic company which analyze
 - [Outcome](#outcome)
 
 
-## 📌 Project Overview
+## 📌 Project Overview(#project-overview)
 This project aims to analyze and optimize the sales performance of **CLEARX Cosmetics**, a growing Nigerian beauty company. Despite their success and expansion across Nigeria, CLEARX faced challenges in data management and insights generation, limiting their ability to make data-driven decisions. Using Excel as the primary tool, this project consolidates sales data, uncovers trends, and provides strategic recommendations to boost sales and customer engagement.
 
 ## 🗂 Data Sources
