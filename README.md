@@ -4,11 +4,11 @@ This is an intense Exploratory Data Analysis of a cosmetic company which analyze
 # Empowering Decision Makers at CLEARX Cosmetics 🧴📊
 
 ## 📑 Table of Contents
-- [Go to Project Overview](#project-overview)
-- [Go to Data Sources](#data-sources)
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
 - [Tools & Technologies](#tools-technologies)
 - [Data Analysis Objectives](#data-analysis-objectives)
-- [Go to Key Findings & Insights](#key-findings--insights)
+- [Key Findings & Insights](#key-findings--insights)
 - [Recommendations](#recommendations)
 - [Project Scope Summary](#project-scope-summary)
 - [Outcome](#outcome)
